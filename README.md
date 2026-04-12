@@ -53,9 +53,9 @@ It is designed to turn engineers into **high-performance, self-improving systems
 | [Engineering](./Engineering.md)            | Engineering culture |
 | [Playbook.md](./Playbook.md)               | Execution system |
 | [Metrics.md](./Metrics.md)                 | Measurement |
-| [Self-assessment.md](./Self-assessment.md) | Feedback loop |
+| [Self-assessment.md](./Self-Assessment.md) | Feedback loop |
 | [Team-Roadmap.md](./Team-Roadmap.md)       | Team adoption |
-| [Enterprise.md](./docs/enterprise.md) | Enterprise |
+| [Enterprise.md](./docs/Enterprise.md)      | Enterprise |
 
 ---
 
