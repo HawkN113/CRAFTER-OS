@@ -170,4 +170,4 @@ It is a **multiplier of capability**.
 
 ## 📜 License
 
-MIT
+[Business Source License 1.1](/LICENSE-COMMERCIAL.md)
