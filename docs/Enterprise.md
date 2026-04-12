@@ -228,3 +228,5 @@ ROI = (Output Increase + Cost Reduction) / Implementation Cost
 ## 💬 One-Line Pitch
 
 > CRAFTER turns engineering teams into high-performance systems without increasing headcount.
+
+> 📜 **Licensing Note:** Commercial use of the CRAFTER methodology within organizations or for providing paid services is governed by [LICENSE.md](./LICENSE.md). The system remains free for personal learning and self-improvement.

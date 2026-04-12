@@ -8,9 +8,8 @@
 <p>
   <img src="https://img.shields.io/badge/status-active-success" />
   <img src="https://img.shields.io/badge/version-1.0-blue"/>
-  <img src="https://img.shields.io/badge/license-MIT-green" />
-  <img src="https://img.shields.io/badge/focus-engineering--culture-orange" />
-  <img src="https://img.shields.io/badge/discipline-execution-critical" />
+  <img src="https://img.shields.io/badge/license-BSL--1.1-orange" />
+  <img src="https://img.shields.io/badge/usage-non--commercial-red" />
 </p>
 
 ## 🚀 What is CRAFTER?
@@ -144,6 +143,14 @@ CRAFTER converts discipline into ROI:
 
 Think → Execute → Measure → Reflect → Improve → Repeat
 
+### The Growth Engine
+Unlike one-time workshops, CRAFTER creates a **perpetual feedback loop**:
+1. **Think** (Clarity) — Eliminate the non-essential.
+2. **Execute** (Focus) — Ship the high-impact.
+3. **Measure** (Metrics) — Confront the data.
+4. **Reflect** (Review) — Identify the leverage points.
+5. **Improve** (Adaptation) — Adjust the system.
+
 ---
 
 ## 🎯 End State
@@ -170,4 +177,12 @@ It is a **multiplier of capability**.
 
 ## 📜 License
 
-[Business Source License 1.1](/LICENSE-COMMERCIAL.md)
+This project is licensed under the **Business Source License 1.1** (BSL-1.1).
+
+- **Personal/Educational use:** FREE 🟢
+- **Commercial/Production use:** Requires a separate license 🔴
+
+On **2028-01-01**, the license will automatically convert to **Apache License 2.0**.
+
+Full details can be found in [LICENSE.md](./LICENSE.md).
+For commercial inquiries, contact: nselyutin@gmail.com
