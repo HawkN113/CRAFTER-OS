@@ -43,7 +43,7 @@ An engineer operating under CRAFTER OS treats the environment as an architecture
 
 ## 🛠 Cultural Axioms
 
-* **Standard over Mood:** We don't wait for "inspiration." Мы следуем протоколам [Playbook](./Playbook.md).
+* **Standard over Mood:** We don't wait for "inspiration." We follow [Playbook](./Playbook.md).
 * **Zero-Noise Communication:** Respect the focus of others. Use asynchronous communication by default.
 * **Radical Transparency:** Use [Metrics](./Metrics.md) and [Self-Assessment](./Self-Assessment.md) to speak with data, not ego.
 

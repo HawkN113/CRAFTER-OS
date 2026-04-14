@@ -109,8 +109,8 @@ CRAFTER converts engineering discipline into business ROI:
 
 1. **Step 1: Understand** — Read the [CRAFTER Principles](./CRAFTER.md).
 2. **Step 2: Execute** — Adopt the [Daily Playbook](./Playbook.md).
-3. **Step 3: Track** — Log your performance in [Metrics.md](./Metrics.md).
-4. **Step 4: Recalibrate** — Run a [Weekly Review](./Weekly-Review.md) to optimize.
+3. **Step 3: Track** — Log your performance in [Metrics](./Metrics.md).
+4. **Step 4: Recalibrate** — Run a [Weekly Review](./templates/Weekly-Review.md) to optimize.
 
 ---
 
@@ -141,14 +141,16 @@ The goal is to develop an engineer who:
 
 ---
 
-## 📜 License
+## 📜 License & Current Status
 
 Copyright © 2026. Licensed under the **Business Source License 1.1** [(BSL-1.1)](./LICENSE.md).
 
-- **Personal/Educational use:** FREE 🟢
-- **Commercial/Production use:** Requires a license 🔴
+> **Current Status: Beta Phase.** We are currently refining the Enterprise modules and Metrics Dashboards. We are not selling licenses at this stage, but we are looking for early adopters and beta partners.
 
-*On 2028-01-01, this license will automatically convert to the Apache License 2.0.*
+* **Personal / Educational use:** 🟢 **FREE**. (Self-improvement, students, non-commercial research).
+* **Commercial / Team use:** 🟡 **FREE DURING BETA**. We allow organizations to test and evaluate the system. A formal commercial license will only be required after the official Production-Ready release.
+
+*On **2028-01-01**, this license will automatically convert to the **Apache License 2.0**.*
 
 ---
 <center>

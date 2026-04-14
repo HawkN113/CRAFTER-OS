@@ -109,6 +109,22 @@ $$Value = (Output\,Gain + Cost\,Reduction) / Implementation\,Cost$$
 
 ---
 
-> 📜 **Licensing & Compliance:** > Commercial use of the CRAFTER methodology within organizations or for providing paid services is strictly governed by the **Business Source License 1.1**. 
-> 
-> For commercial licensing, contact: `nselyutin@gmail.com`
+## 📜 Licensing & Commercial Compliance
+
+CRAFTER OS is published under the **Business Source License 1.1 (BSL-1.1)**. This licensing model is designed to keep the system open for individuals while ensuring a fair exchange of value with commercial entities.
+
+### 🟢 Personal & Educational Use
+* **Free Forever:** Use the system for your personal growth, self-management, or academic research.
+* **Open Knowledge:** All core principles and templates are transparent and accessible.
+
+### 🟡 Internal Team Evaluation (Beta)
+* Organizations are permitted to test CRAFTER OS within a single team for up to **30 days** to evaluate its impact on predictability and focus.
+* This allows for "Proof of Concept" without immediate financial commitment.
+
+### 🔴 Commercial & Enterprise Use
+A separate **Commercial License** is required for:
+* Integration into official corporate workflows beyond the evaluation period.
+* Scaling the methodology across multiple departments or the entire organization.
+* Providing professional consulting, coaching, or training services based on the CRAFTER OS methodology.
+
+> **Current Status:** We are currently in the **Beta/Active Development** phase. Enterprise licenses and managed rollout partnerships are granted on a case-by-case basis.

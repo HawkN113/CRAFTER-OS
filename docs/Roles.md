@@ -19,7 +19,7 @@ CRAFTER OS is a modular system. While it was forged in the trenches of Software 
 
 ### **Architects**
 * **Focus:** Cognitive Clarity and Systems Thinking.
-* **Core Tools:** [CRAFTER Principles](../CRAFTER.md), [Monthly Reset](./templates/Monthly-Reset.md).
+* **Core Tools:** [CRAFTER Principles](../CRAFTER.md), [Monthly Reset](../templates/Monthly-Reset.md).
 * **Goal:** Simplify complex requirements into executable technical roadmaps.
 
 ---

@@ -7,7 +7,7 @@ CRAFTER is a **deterministic system**, not a collection of random ideas. We valu
 ## 💎 The Contribution Filter
 
 Every Pull Request must pass the **CRAFTER Test**:
-1. **Does it align with Core Principles?** (See [CRAFTER.md](./CRAFTER.md)).
+1. **Does it align with Core Principles?** (See [CRAFTER Principles](./CRAFTER.md)).
 2. **Does it improve Clarity?** (Does it make the system easier to understand?).
 3. **Is it Actionable?** (Can an engineer apply this tomorrow morning?).
 4. **Is it Minimal?** (Did you remove the "noise" and leave only the "signal"?).

@@ -29,7 +29,7 @@ The system functions like a biological muscle: targeted stress creates micro-tea
 ### 1. Error Conversion (Post-Mortem Thinking)
 In CRAFTER, an error is a **low-cost gift of information**.
 - **Signal Mining:** We don't just fix the bug; we fix the *systemic assumption* that allowed the bug to exist.
-- **Fail-Safe Loops:** Every incident triggers an update to the [Playbook](./Playbook.md), ensuring the same "stressor" never works twice.
+- **Fail-Safe Loops:** Every incident triggers an update to the [Playbook](../Playbook.md), ensuring the same "stressor" never works twice.
 
 ### 2. Constraint-Driven Execution
 Pressure is a filter that removes non-essential complexity.
@@ -49,13 +49,13 @@ An engineer operating on CRAFTER OS doesn't just survive the "crunch time" — t
 
 * **Loves the Friction:** Every difficult task is a diagnostic tool for their own skills.
 * **Decentralized Intelligence:** Doesn't rely on a "stable" manager or company; builds a portable, robust system of self-management.
-* **Hyper-Adaptive:** Shifts focus instantly based on the "Signal" provided by [Metrics](./Metrics.md).
+* **Hyper-Adaptive:** Shifts focus instantly based on the "Signal" provided by [Metrics](../Metrics.md).
 
 ---
 
 ## 🔄 The Antifragility Loop (Practical Steps)
 
-1.  **Expose:** Don't hide failures; make them visible through [Self-Assessment](./Self-Assessment.md).
+1.  **Expose:** Don't hide failures; make them visible through [Self-Assessment](../Self-Assessment.md).
 2.  **Analyze:** Identify if the failure was a *Signal* (systemic) or *Noise* (random).
 3.  **Synthesize:** Turn the insight into a new "Check" in your Daily Routine.
 4.  **Strengthen:** Implement the change immediately.
