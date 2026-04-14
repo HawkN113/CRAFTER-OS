@@ -52,10 +52,6 @@ graph TD
     F -.-> |Continuous Feedback Loop| A
 ```
 
-<center>
-  <img src="./docs/architecture.png" alt="CRAFTER Architecture" height="500px" />
-</center>
-
 ---
 
 ## ⚙️ Operating Modules
