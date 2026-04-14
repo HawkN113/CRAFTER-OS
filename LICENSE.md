@@ -1,7 +1,7 @@
 Business Source License 1.1
 
 Licensor: Nikolay Selyutin, Austria
-Licensed Work: CRAFTER-OS
+Licensed Work: CRAFTER-OS (including methodology, frameworks, and templates)
 Change Date: 2028-01-01
 Change License: Apache License, Version 2.0
 
@@ -11,11 +11,11 @@ Change License: Apache License, Version 2.0
 
 "License" means this Business Source License.
 "Licensor" means the individual named above.
-"Licensed Work" means the software, framework, and associated documentation provided under this License.
+"Licensed Work" means the software, framework, methodology, and associated documentation provided under this License.
 "You" means any individual or legal entity exercising permissions under this License.
 "Change Date" means the date after which this License converts to the Change License.
 "Change License" means the license that applies after the Change Date.
-"Non-production use" means use strictly for evaluation, testing, development, or personal learning purposes, and not for generating business value.
+"Non-production use" means use strictly for evaluation, testing, personal learning, or non-commercial research, where no direct or indirect business value is generated through paid services or professional scaling.
 
 ---
 
@@ -27,21 +27,21 @@ The Licensor grants you a non-exclusive, worldwide, royalty-free license to use,
 
 3. Usage Limitation
 
-You may use the Licensed Work for non-production purposes only, including development, testing, evaluation, and research.
+You may use the Licensed Work for non-production purposes only. 
 
-Production use of the Licensed Work is NOT PERMITTED without obtaining a separate commercial license from the Licensor.
+Production use of the Licensed Work is NOT PERMITTED without obtaining a separate commercial license from the Licensor. 
 
 “Production use” includes but is not limited to:
-* Use in any commercial environment;
-* Use in connection with providing services to third parties (including but not limited to SaaS, PaaS, hosted services, APIs, or any similar offering);
-* Internal business use within an organization;
-* Any use that supports business operations or generates value for an organization.
+* Use within a commercial organization to manage professional teams (beyond a 30-day internal evaluation period);
+* Use in connection with providing paid services to third parties (including but not limited to consulting, coaching, training, or technical implementations based on CRAFTER OS);
+* Use as part of a commercial product, SaaS, or hosted service;
+* Any use that generates revenue or forms the basis of a commercial professional practice.
 
 ---
 
-4. Commercial Licensing
+4. Commercial Licensing & Beta Phase
 
-For production or commercial use, you must get a separate commercial license from the Licensor.
+During the Beta/Development phase, commercial licenses are granted individually. For production use, enterprise deployment, or professional consulting rights, you must obtain a separate agreement from the Licensor.
 
 Contact: nselyutin@gmail.com
 
@@ -57,9 +57,9 @@ On the Change Date (2028-01-01), this License will automatically convert to the 
 
 You may redistribute the Licensed Work only if:
 * You include a complete copy of this License;
-* You retain all copyright, patent, and attribution notices;
+* You retain all copyright and attribution notices;
 * You do not modify or remove this License;
-* You do not enable or facilitate prohibited production use;
+* You do not facilitate or encourage prohibited production use;
 * You clearly state any modifications made to the Licensed Work.
 
 ---
@@ -70,24 +70,18 @@ This License terminates automatically if you fail to comply with its terms. Upon
 
 ---
 
-8. Disclaimer of Warranty
+8. Disclaimer of Warranty & Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
-
----
-
-9. Limitation of Liability
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE LICENSED WORK.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED “AS IS” WITHOUT WARRANTIES OF ANY KIND. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE OF THIS METHODOLOGY.
 
 ---
 
-10. Governing Law and Jurisdiction
+9. Governing Law and Jurisdiction
 
-This License shall be governed by and construed in accordance with the laws of the Republic of Austria. Any disputes arising out of or in connection with this License shall be subject to the exclusive jurisdiction of the competent courts in Austria.
+This License shall be governed by and construed in accordance with the laws of the Republic of Austria. Any disputes shall be subject to the exclusive jurisdiction of the competent courts in Austria.
 
 ---
 
-11. Trademark and Branding
+10. Trademark and Branding
 
-The name "CRAFTER OS", including any associated branding, logos, or identifiers, is the exclusive property of the Licensor. You may not use the name "CRAFTER OS" in any commercial product, service, or offering without prior written permission from the Licensor.
+The name "CRAFTER OS" is the exclusive property of the Licensor. Use of the name in any commercial offering, service title, or product without prior written permission is strictly prohibited.

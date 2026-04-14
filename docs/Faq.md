@@ -1,28 +1,65 @@
-﻿# ❓ FAQ
+﻿# ❓ Frequently Asked Questions (FAQ)
 
-## Is this Agile?
-No. It is a performance system. It focuses on individual and team execution efficiency rather than just project management rituals.
+Everything you need to know about the CRAFTER OS architecture, implementation, and licensing.
 
-## Does it replace tech skills?
-No. It is a "multiplier of capability." It amplifies your existing technical mastery by providing a system for its application.
+---
 
-## Is it for individuals or teams?
-Both. Individuals use it for personal growth and career acceleration. Organizations use the Enterprise version to standardize high performance across teams.
+### 🟢 General Questions
 
-## How long to see results?
-2–4 weeks for individuals (habit formation), 2–3 months for teams (cultural shift).
+#### Is this another Agile framework?
+**No.** Agile focuses on *Project Management* (the "what" and "when"). **CRAFTER OS** focuses on *Engineering Execution* (the "how" and "with what quality"). It is a performance engine that ensures your project management doesn't turn into "Fast Chaos."
 
-## Is "Enterprise" compatible with the license?
-Yes. CRAFTER OS uses the **Business Source License (BSL) 1.1**.
-- **Personal/Educational use** is free and encouraged.
-- **Production/Commercial use** (within a company to generate value) requires an Enterprise license.
-  The Enterprise version provides the legal right to use the system in a business environment, plus additional tools like dashboards, workshops, and implementation support.
+#### Does it replace technical skills?
+**No.** It is a **Capability Multiplier**. A Formula 1 driver needs a high-performance vehicle and a racing strategy to win; CRAFTER is the strategy for your technical brain. It amplifies your mastery by providing a deterministic system for its application.
 
-## Can CRAFTER be used alongside Agile/Scrum?
-Yes. CRAFTER is an "individual and team performance engine." While Agile focuses on project management (what to do), CRAFTER focuses on the quality of execution (how to do it). It removes the "noise" from existing rituals and ensures that "Agile" doesn't just become "Fast Chaos."
+#### How long does it take to see results?
+- **Individual level:** 2–4 weeks (habit formation and cognitive clarity).
+- **Team level:** 2–3 months (cultural shift and predictable metrics).
 
-## Why not MIT or Apache from the start?
-We believe in sustainable development. BSL allows us to keep the core system open for learners while ensuring that companies using it to increase their ROI contribute back to the project's development. On **2028-01-01**, the entire system will automatically become Apache 2.0.
+---
 
-## Can I contribute if I don't have a commercial license?
-Absolutely! We welcome contributions that improve clarity and execution for everyone. Contributors are recognized in our community, regardless of their license status.
+### 🏢 Enterprise & Team Integration
+
+#### Can CRAFTER be used alongside Scrum or Kanban?
+**Yes.** CRAFTER is "process-agnostic." While Scrum manages the backlog, CRAFTER ensures the deep work required to clear that backlog is protected and high-quality.
+
+#### Is this "Micro-management"?
+**Exactly the opposite.** Micro-management happens when there is a lack of trust. CRAFTER empowers engineers with **Self-Management protocols**, making performance so visible and predictable that it *reduces* the need for external management intervention.
+
+#### How much "Admin Overhead" does this add?
+The system is designed to be lean:
+- **Daily:** 5–10 minutes.
+- **Weekly:** 15–30 minutes.
+This investment typically recovers **2–4 hours of wasted time** per day.
+
+---
+
+### ⚖️ Licensing & Current Status
+
+#### Why is the Commercial License currently restricted?
+The CRAFTER OS is currently in **Active Development / Beta Phase**. We are refining the Enterprise modules (dashboards, implementation roadmaps) to ensure they meet the highest professional standards before offering them for commercial use.
+
+#### Can I use this for personal learning?
+**Yes, absolutely.** CRAFTER OS is 100% FREE for:
+- Personal self-improvement.
+- Educational purposes and students.
+- Open-source contributors.
+- Research and personal hobby projects.
+
+#### What if I want to use it in my company right now?
+Under the current **BSL 1.1** terms, you can test it with your immediate team for evaluation, but a full commercial rollout or paid consulting using this methodology is prohibited until the official "Production-Ready" release. 
+
+> **Early Adopters:** If you are interested in being a Beta-test partner for the Enterprise version, please contact the maintainer directly.
+
+#### When will the Commercial/Enterprise version be available?
+We are working on the final documentation and supporting tools. Follow this repository for updates on the official commercial release date.
+
+---
+
+### 🤝 Community & Contributions
+
+#### Can I contribute?
+**Yes!** We welcome contributions that improve clarity, fix bugs in templates, or add new modules. All contributors are recognized in our community.
+
+#### I have a specific question not covered here.
+Please open an **Issue** in this repository or contact the maintainer directly at `nselyutin@gmail.com`.

@@ -1,188 +1,161 @@
+<center>
+
 # 🦾 CRAFTER OS
+### Engineering Mindset as a System
 
-<p>
-  <strong>Engineering mindset as a system</strong><br/>
-  Craft the engineer. Engineer the system.
-</p>
+**The definitive framework for high-performance software engineering.** *"Craft the Mindset. Engineer the Results. Scalable Excellence."*
 
-<p>
-  <img src="https://img.shields.io/badge/status-active-success" />
-  <img src="https://img.shields.io/badge/version-1.0-blue"/>
-  <img src="https://img.shields.io/badge/license-BSL--1.1-orange" />
-  <img src="https://img.shields.io/badge/usage-non--commercial-red" />
-</p>
+[![](https://img.shields.io/badge/status-active-success?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/license-BSL--1.1-orange?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/usage-non--commercial-red?style=for-the-badge)](#)
 
-## 🚀 What is CRAFTER?
-
-**CRAFTER OS** is an engineering operating system that transforms:
-
-- mindset → structured thinking
-- execution → consistent delivery
-- discipline → measurable results
-
-It is designed to turn engineers into **high-performance, self-improving systems**.
+</center>
 
 ---
 
-## 🔤 C.R.A.F.T.E.R
+## ⚡ The Problem
+Traditional engineering is often a chaotic loop of multitasking, burnout, and unpredictable delivery. Talent is wasted on "noise" instead of "signal". 
 
-| Principle | Meaning |
-|----------|--------|
-| **C** | Cognitive Clarity — clear thinking |
-| **R** | Reputation — consistent reliability |
-| **A** | Adaptation — flexibility under change |
-| **F** | Focus — deep work, no noise |
-| **T** | Technical Mastery — deep expertise |
-| **E** | Execution — finishing tasks |
-| **R** | Responsibility — ownership end-to-end |
+## 🛡️ The Solution: CRAFTER OS
+**CRAFTER OS** is a deterministic engineering operating system. It provides a rigorous framework to eliminate cognitive friction, maximize deep work, and transform raw coding effort into professional mastery.
 
-[Full breakdown](./CRAFTER.md)
+---
+
+## 🚀 System Core: C.R.A.F.T.E.R
+
+| Letter | Principle | Industrial Impact |
+|:---:|:---|:---|
+| **C** | **Cognitive Clarity** | Eliminates "Guess-driven Development" and rework. |
+| **R** | **Reputation** | Builds a brand of absolute reliability and trust. |
+| **A** | **Adaptation** | Ensures resilience in fast-changing tech environments. |
+| **F** | **Focus** | Protects the engineering "Flow State" from distractions. |
+| **T** | **Technical Mastery** | Systematic approach to deep expertise, not just syntax. |
+| **E** | **Execution** | The art of finishing. Zero "half-done" tasks. |
+| **R** | **Responsibility** | End-to-end ownership of the problem and the solution. |
+
+> [**Deep dive into CRAFTER Principles →**](./CRAFTER.md)
 
 ---
 
 ## 🧠 System Architecture
 
-![CRAFTER Architecture](./docs/architecture.svg)
+The system operates as a **Continuous Improvement Engine**. It is designed to be anti-fragile: the more you use it, the stronger your engineering process becomes.
+
+```mermaid
+graph TD
+    A[Engineering Culture] --> B[Playbook - Execution]
+    B --> C[Metrics - Measurement]
+    C --> D[Self-Assessment - Feedback]
+    D --> E[Iteration - Improvement]
+    E --> F[Anti-Fragile System]
+    F -.-> |Continuous Feedback Loop| A
+```
+
+<center>
+  <img src="./docs/architecture.png" alt="CRAFTER Architecture" height="500px" />
+</center>
 
 ---
 
-## ⚙️ Core Components
+## ⚙️ Operating Modules
 
-| Component                                  | Description |
-|--------------------------------------------|------------|
-| [Engineering](./Engineering.md)            | Engineering culture |
-| [Playbook.md](./Playbook.md)               | Execution system |
-| [Metrics.md](./Metrics.md)                 | Measurement |
-| [Self-assessment.md](./Self-Assessment.md) | Feedback loop |
-| [Team-Roadmap.md](./Team-Roadmap.md)       | Team adoption |
-| [Enterprise.md](./docs/Enterprise.md)      | Enterprise |
+CRAFTER is modular. Implement the components you need, then scale.
+
+* 📂 **[Culture](./Engineering.md)** — The foundational engineering mindset.
+* 📂 **[Playbook](./Playbook.md)** — Tactical execution and Daily protocols.
+* 📂 **[Metrics](./Metrics.md)** — Tracking Lead Time, Predictability, and Focus.
+* 📂 **[Feedback Loop](./Self-Assessment.md)** — Protocols for Self-Correction.
+* 📂 **[FAQ](./docs/Faq.md)** — Frequently Asked Questions & Troubleshooting.
+* 📂 **[Team-Roadmap](./Team-Roadmap.md)** — Scaling the system for groups.
+* 📂 **[Enterprise](./docs/Enterprise.md)** — Enterprise-grade deployment and ROI.
 
 ---
 
-## 👥 Who is this for?
+## 👥 Audience
 
 ### 🥇 Primary
-- Software Engineers (Mid → Staff)
-- Tech Leads / Architects
+- **Software Engineers (Mid → Staff):** Master self-management and output quality.
+- **Tech Leads & Architects:** Build high-performance, predictable teams.
 
 ### 🥈 Secondary
-- DevOps / SRE
-- QA Engineers
-
-### 🥉 Partial
-- Product Managers
-- Designers
-
-→ [Detailed roles](./docs/Roles.md)
+- **DevOps:** Standardize operational execution.
+- **QA Engineers:** Shift-left quality through engineering discipline.
 
 ---
 
-## 📈 What You Get
+## 📈 Value Proposition
 
-### 🔥 Performance
-- +20–50% productivity (focus + execution)
-- reduced context switching
-- faster delivery
+### 🔥 High-Performance Execution
+- **Focus:** Eliminate context switching via 2-4h Deep Work blocks.
+- **Predictability:** Consistent delivery timelines based on real metrics.
+- **Quality:** Built-in "Definition of Done" for every task.
 
-### 🧠 Thinking
-- structured decision-making
-- system-level reasoning
-- reduced cognitive load
-
-### ⚙️ Execution
-- consistent output
-- predictable results
-- fewer unfinished tasks
-
-### 🚀 Growth
-- continuous improvement
-- built-in learning loop
-- idea generation system
+### 🧠 Strategic Thinking
+- **Cognitive Clarity:** Decisions driven by logic, not stress.
+- **System Reasoning:** Move from "fixing bugs" to "engineering systems".
+- **Anti-Fragility:** Learn and improve from every failure.
 
 ---
 
 ## 💰 Business Impact
 
-CRAFTER converts discipline into ROI:
+CRAFTER converts engineering discipline into business ROI:
 
-- reduced wasted engineering time
-- faster time-to-market
-- fewer production issues
-- lower dependency on external training
-
-**Result:** higher output with the same team.
+- **Reduced Waste:** Less time spent on vague tasks and rework.
+- **Faster Time-to-Market:** Efficient execution loops speed up shipping.
+- **Lower "Bus Factor":** Systemized knowledge prevents single-point-of-failure.
+- **Retention:** High-performers thrive in a structured, distraction-free environment.
 
 ---
 
-## 🛠 How to Use
+## 🛠 How to Initialize
 
-### Step 1 — Understand the system
-→ Read [CRAFTER.md](./CRAFTER.md)
-
-### Step 2 — Apply daily
-→ Use [Playbook.md](./Playbook.md)
-
-### Step 3 — Measure
-→ Track via [Metrics.md](./Metrics.md)
-
-### Step 4 — Improve
-→ Use [Self-assessment.md](./Self-assessment.md)
+1. **Step 1: Understand** — Read the [CRAFTER Principles](./CRAFTER.md).
+2. **Step 2: Execute** — Adopt the [Daily Playbook](./Playbook.md).
+3. **Step 3: Track** — Log your performance in [Metrics.md](./Metrics.md).
+4. **Step 4: Recalibrate** — Run a [Weekly Review](./Weekly-Review.md) to optimize.
 
 ---
 
-## 🧬 Philosophy
+## 🧬 Core Philosophy
 
-- Systems > Motivation
-- Execution > Intentions
-- Clarity > Complexity
-- Adaptation > Rigidity
-
----
-
-## 🔁 Feedback Loop
-
-Think → Execute → Measure → Reflect → Improve → Repeat
-
-### The Growth Engine
-Unlike one-time workshops, CRAFTER creates a **perpetual feedback loop**:
-1. **Think** (Clarity) — Eliminate the non-essential.
-2. **Execute** (Focus) — Ship the high-impact.
-3. **Measure** (Metrics) — Confront the data.
-4. **Reflect** (Review) — Identify the leverage points.
-5. **Improve** (Adaptation) — Adjust the system.
+- **Systems > Motivation:** Motivation is a feeling; systems are a commitment.
+- **Execution > Intentions:** What you ship is what defines you.
+- **Clarity > Complexity:** If you can't explain it simply, you haven't engineered it.
+- **Adaptation > Rigidity:** The system evolves as you grow.
 
 ---
 
-## 🎯 End State
+## 🎯 The End State
 
-An engineer who:
-
-- thinks clearly
-- executes consistently
-- adapts quickly
-- delivers reliably
-- improves continuously
+The goal is to develop an engineer who:
+- Thinks with **Clarity**.
+- Executes with **Focus**.
+- Delivers with **Consistency**.
+- Adapts through **Metrics**.
 
 ---
 
 ## ⚠️ What CRAFTER is NOT
 
-- not a tech stack
-- not a framework for code
-- not a replacement for knowledge
-
-It is a **multiplier of capability**.
+- It is **not** a tech stack or language-specific guide.
+- It is **not** a Jira replacement (it's how you *use* the tools).
+- It is **not** a rigid set of rules (it's a framework to be adapted).
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **Business Source License 1.1** (BSL-1.1).
+Copyright © 2026. Licensed under the **Business Source License 1.1** [(BSL-1.1)](./LICENSE.md).
 
 - **Personal/Educational use:** FREE 🟢
-- **Commercial/Production use:** Requires a separate license 🔴
+- **Commercial/Production use:** Requires a license 🔴
 
-On **2028-01-01**, the license will automatically convert to **Apache License 2.0**.
+*On 2028-01-01, this license will automatically convert to the Apache License 2.0.*
 
-Full details can be found in [LICENSE.md](./LICENSE.md).
-For commercial inquiries, contact: nselyutin@gmail.com
+---
+<center>
+    <b>Contact & Inquiries:</b><br/>
+    Nikolay Selyutin — <code>nselyutin@gmail.com</code>
+</center>
