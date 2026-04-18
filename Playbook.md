@@ -7,6 +7,21 @@
 ## 🟦 Daily Protocol: The Core Loop
 *To be executed every 24 hours to maintain momentum. Use the [Daily Template](./templates/Daily-Checklist.md).*
 
+### 🔍 Signal Processing Flow
+```mermaid
+graph LR
+    Chaos[Inbound Noise: Syncs, Pings, Vague Tasks] --> Filter{Clarity Filter}
+    Filter -->|Low Signal| Trash[Refuse / Delegate]
+    Filter -->|High Signal| Plan[Daily Strategy]
+    
+    subgraph Protected_Zone [CRAFTER Focus Zone]
+        Plan --> DW[Deep Work: 2-4h]
+        DW --> Output[High-Quality Code / ADR]
+    end
+    
+    Output --> Reputation[Increased Reputation Score]
+```
+
 ### 1. Pre-Flight (10 mins)
 - [ ] **Define Top 1–3 Tasks:** Identify high-leverage outcomes. 
     * *Rule: If these are done, the day is a success.*
@@ -34,6 +49,9 @@
 ### 2. Optimize Processes
 - [ ] **The "One Fix" Rule:** Change one thing in your environment or workflow to fix last week's bottleneck.
 - [ ] **Tech Debt Review:** Plan 1 hour to clean up "temporary" code or docs.
+- [ ] **ADR Review:** Check if any major technical decisions were made this week.
+   - If yes — ensure they are documented in `docs/adr/`.
+   - If a decision is pending — move it to `Proposed` status in a new ADR file.
 
 ### 3. Strategy & Ideation
 - [ ] **The Backlog:** Capture high-level technical ideas without starting them yet.

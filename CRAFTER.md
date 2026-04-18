@@ -12,6 +12,7 @@ The quality of your code can never exceed the quality of your mental model. Clar
 * **Principles:** First-principles thinking, radical simplification, and "Definition of Done" awareness.
 * **Action:** If you can't map the logic on paper, don't touch the keyboard.
 * **❌ Anti-pattern:** "Guess-driven development" or starting a task with vague requirements.
+* **Tool**: Use [ADR (Architecture Decision Record)](./templates/ADR-Template.md) to eliminate "Guess-driven Development". If you can't justify a decision in an ADR, you don't have enough clarity to execute it.
 
 ---
 

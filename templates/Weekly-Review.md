@@ -28,6 +28,9 @@
     * *Example: "If requirements are vague, I will schedule a 10-min sync BEFORE starting execution."*
 - [ ] **Tooling/Environment:** Does anything in your workspace (digital or physical) need adjustment?
 - [ ] **Documentation:** Update your internal docs or `README.md` if a new pattern was discovered.
+- [ ] **ADR Synchronization:** - Did we change any architecture/tools this week?
+  - Is there an ADR for this? (If not, create one in `docs/adr/` using the template).
+- [ ] **The "One Fix" Rule:** What one change to your process...
 
 ---
 

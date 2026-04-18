@@ -12,6 +12,20 @@ CRAFTER OS is designed not only to withstand stress, but to improve because of i
 | **Robust** | Resists stress, stays the same | Endurance and stability |
 | **Antifragile** | **Grows and improves from stress** | **Exploiting disorder** |
 
+```mermaid
+graph LR
+    subgraph Fragile
+        F1[Stress] --> F2((SHATTER))
+    end
+    subgraph Robust
+        R1[Stress] --> R2(NO CHANGE)
+    end
+    subgraph Antifragile
+        A1[Stress] --> A2{EVOLVE}
+        A2 --> A3[STRENGTH]
+    end
+```
+
 > "Antifragility is beyond resilience or robustness. The resilient resists shocks and stays the same; the antifragile gets better." — *Nassim Taleb*
 
 ---
@@ -20,7 +34,19 @@ CRAFTER OS is designed not only to withstand stress, but to improve because of i
 
 The system functions like a biological muscle: targeted stress creates micro-tears (signals), which the system repairs to become stronger than before.
 
-`Stress (Volatility) → Signal (Data) → Adaptation (Learning) → Improvement (Strength)`
+```mermaid
+graph TD
+    Chaos[Volatility and Pressure] -- 1. Input --> Stress[System Stress / Friction]
+    Stress -- 2. Detection --> Signal{Data Signal}
+    
+    subgraph Learning_Engine [The Growth Phase]
+        Signal -- 3. Analysis --> Insight[Insight]
+        Insight -- 4. Update --> Patch[System Patch / New Rule]
+    end
+    
+    Patch -- 5. Hardening --> Stronger[Improved Protocol]
+    Stronger -- 6. Feedback Loop --> Chaos
+```
 
 ---
 

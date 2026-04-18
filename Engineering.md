@@ -15,6 +15,7 @@ We expect every engineer to operate as a self-correcting system:
 * **Technical Mastery:** Treat your craft as a depreciating asset. Reinvest in your skills every single week.
 * **Execution:** Be a "Finisher." A 99% completed task provides 0% business value.
 * **Responsibility:** Take ownership of the entire lifecycle. You don't just write code; you solve problems.
+* **Decisions over Discussions:** We don't settle technical disputes in a messenger. We settle them via ADRs. If it isn't in `docs/adr/`, the decision doesn't exist.
 
 ---
 

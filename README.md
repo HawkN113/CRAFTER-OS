@@ -44,31 +44,59 @@ The system operates as a **Continuous Improvement Engine**. It is designed to be
 
 ```mermaid
 graph TD
-    A[Engineering Culture] --> B[Playbook - Execution]
-    B --> C[Metrics - Measurement]
-    C --> D[Self-Assessment - Feedback]
-    D --> E[Iteration - Improvement]
-    E --> F[Anti-Fragile System]
-    F -.-> |Continuous Feedback Loop| A
+    %% Mindset Layer
+    subgraph Mindset_Layer [1. Mindset: The Foundation]
+        A[Engineering Culture and Principles] --> B[Antifragile Thinking]
+    end
+
+    %% Execution Layer
+    subgraph Execution_Layer [2. Execution: The Engine]
+        B --> C[Playbook: Daily Protocol]
+        C --> D[Deep Work]
+        D --> E[ADR: Decisions]
+    end
+
+    %% Feedback Layer
+    subgraph Feedback_Layer [3. Feedback: The Governor]
+        E --> F[Metrics: Data Collection]
+        F --> G[Self-Assessment]
+        G --> H[System Calibration]
+    end
+
+    %% The Continuous Loop
+    H -.-> |Continuous Feedback Loop| A
 ```
 
 ---
 
 ## ⚙️ Operating Modules
 
-CRAFTER is modular. Implement the components you need, then scale.
+**CRAFTER** is modular. Implement the components you need, then scale.
 
+### 🧩 Core System (The Foundation)
+* 📜 **[Philosophy](./docs/Philosophy.md)** — The 3 pillars: Systems Thinking, Execution, and Kaizen.
+* 📖 **[Glossary](./docs/Glossary.md)** — Definition of core CRAFTER terms and concepts.
+* 🛡️ **[Antifragile](./docs/Antifragile.md)** — How to turn stress and chaos into growth.
 * 📂 **[Culture](./Engineering.md)** — The foundational engineering mindset.
+* 📂 **[Roles](./docs/Roles.md)** — Role-specific implementation (Dev, Lead, Manager).
+* 📂 **[ADR Template](./templates/ADR-Template.md)** — Standard for documenting technical choices.
+
+### 🚀 Execution & Tracking (The Engine)
 * 📂 **[Playbook](./Playbook.md)** — Tactical execution and Daily protocols.
 * 📂 **[Metrics](./Metrics.md)** — Tracking Lead Time, Predictability, and Focus.
-* 📂 **[Feedback Loop](./Self-Assessment.md)** — Protocols for Self-Correction.
+* 📂 **[Feedback Loop](./Self-Assessment.md)** — Protocols for Self-Correction and Calibration.
 * 📂 **[FAQ](./docs/Faq.md)** — Frequently Asked Questions & Troubleshooting.
-* 📂 **[Team-Roadmap](./Team-Roadmap.md)** — Scaling the system for groups.
-* 📂 **[Enterprise](./docs/Enterprise.md)** — Enterprise-grade deployment and ROI.
+
+### 🏢 Scaling & Enterprise (Strategic)
+* 📂 **[Team-Roadmap](./Team-Roadmap.md)** — Scaling the system for engineering groups.
+* 📂 **[Enterprise ROI](./docs/Enterprise-ROI.md)** — Business justification and time-recovery metrics.
+* 📂 **[Enterprise](./docs/Enterprise.md)** — Enterprise-grade deployment and organizational scaling.
+
 
 ---
 
 ## 👥 Audience
+*Detailed breakdown of responsibilities and benefits: **[Roles and Impact](./docs/Roles.md)***
 
 ### 🥇 Primary
 - **Software Engineers (Mid → Staff):** Master self-management and output quality.
@@ -77,6 +105,8 @@ CRAFTER is modular. Implement the components you need, then scale.
 ### 🥈 Secondary
 - **DevOps:** Standardize operational execution.
 - **QA Engineers:** Shift-left quality through engineering discipline.
+
+👉 *New to the system? Follow the **[Onboarding Checklist](./templates/Onboarding-Checklist.md)** to get started in 15 minutes.*
 
 ---
 
@@ -90,7 +120,7 @@ CRAFTER is modular. Implement the components you need, then scale.
 ### 🧠 Strategic Thinking
 - **Cognitive Clarity:** Decisions driven by logic, not stress.
 - **System Reasoning:** Move from "fixing bugs" to "engineering systems".
-- **Anti-Fragility:** Learn and improve from every failure.
+- **Anti-Fragility:** Learn and improve from every failure. [Detailed Guide →](./docs/Antifragile.md)
 
 ---
 
@@ -103,9 +133,15 @@ CRAFTER converts engineering discipline into business ROI:
 - **Lower "Bus Factor":** Systemized knowledge prevents single-point-of-failure.
 - **Retention:** High-performers thrive in a structured, distraction-free environment.
 
+> 📊 **Explore the [Enterprise ROI & Economic Value Analysis](./docs/Enterprise-ROI.md)**
+
 ---
 
 ## 🛠 How to Initialize
+
+Ready to install CRAFTER OS into your workflow? Follow the step-by-step guide:
+
+> 🚀 **[Start Here: The Onboarding Checklist](./templates/Onboarding-Checklist.md)**
 
 1. **Step 1: Understand** — Read the [CRAFTER Principles](./CRAFTER.md).
 2. **Step 2: Execute** — Adopt the [Daily Playbook](./Playbook.md).
@@ -115,6 +151,8 @@ CRAFTER converts engineering discipline into business ROI:
 ---
 
 ## 🧬 Core Philosophy
+
+*Detailed deep dive: [Philosophy.md](./docs/Philosophy.md)*
 
 - **Systems > Motivation:** Motivation is a feeling; systems are a commitment.
 - **Execution > Intentions:** What you ship is what defines you.
