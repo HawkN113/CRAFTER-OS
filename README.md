@@ -164,8 +164,8 @@ Ready to install CRAFTER OS into your workflow? Follow the step-by-step guide:
 ## 🎯 The End State
 
 The goal is to develop an engineer who:
-- Thinks with **Clarity**.
-- Executes with **Focus**.
+- Think with **Clarity**.
+- Execute with **Focus**.
 - Delivers with **Consistency**.
 - Adapts through **Metrics**.
 
@@ -188,9 +188,25 @@ Copyright © 2026. Licensed under the **Business Source License 1.1** [(BSL-1.1)
 * **Personal / Educational use:** 🟢 **FREE**. (Self-improvement, students, non-commercial research).
 * **Commercial / Team use:** 🟡 **FREE DURING BETA**. We allow organizations to test and evaluate the system. A formal commercial license will only be required after the official Production-Ready release.
 
-*On **2028-01-01**, this license will automatically convert to the **Apache License 2.0**.*
+### ✅ What you can do
+You are free:
+- use `CRAFTER` as a **personal engineering standard**.
+- read, study, and adapt the system.
+- experiment with it in your own workflow.
+- share and discuss it with others.
+
+### 🔓 Future Open Source
+CRAFTER OS will automatically convert to the **Apache 2.0** license on **2028-01-01**.
+
+### 💡 Why this license?
+CRAFTER is more than a repository — it is a growing engineering system.
+This licensing model allows:
+- open access for individuals.
+- protection against unlicensed commercial use.
+- long-term development and evolution of the system.
 
 ---
+
 <center>
     <b>Contact & Inquiries:</b><br/>
     Nikolay Selyutin — <code>nselyutin@gmail.com</code>

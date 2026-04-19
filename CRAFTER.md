@@ -77,7 +77,7 @@ The world only cares about what is finished. Execution is the discipline of clos
 A Senior Engineer doesn't just write code; they solve a business problem. Responsibility means owning the outcome, the edge cases, the deployment, and the subsequent maintenance.
 
 * **Principles:** End-to-end ownership, proactivity, and extreme accountability.
-* **Action:** Fix the "broken window" even if it’s not your task. Anticipate failures before they occur.
+* **Action:** Fix the "broken window" even if it’s not your task. Expect failures before they occur.
 * **❌ Anti-pattern:** "It worked on my machine" or "That's the DevOps team's problem."
 
 ---

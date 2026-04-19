@@ -4,7 +4,7 @@
 ---
 
 ## 📍 Phase 0: Alignment & Preparation (1–2 weeks)
-*Objective: Build the conceptual foundation and secure "Buy-in".*
+*Objective: Build the conceptual foundation and secure "Buy-in."*
 
 - [ ] **Core Presentation:** Introduce the [CRAFTER Principles](./CRAFTER.md). Focus on "What's in it for the engineer" (less burnout, more flow).
 - [ ] **Assign Champions:** Identify 1-2 engineers per squad to act as "System Architects" for the rollout.
@@ -22,7 +22,7 @@
 ---
 
 ## 📊 Phase 2: Visibility & Measurement (2–3 months)
-*Objective: Move from "feeling busy" to "knowing performance".*
+*Objective: Move from "feeling busy" to "knowing performance."*
 
 - [ ] **Metric Baseline:** Start tracking Predictability (Planned vs. Done) and Lead Time.
 - [ ] **Self-Assessment:** Engineers begin bi-weekly [Self-Assessments](./Self-Assessment.md) to find personal leverage points.
@@ -40,7 +40,7 @@
 ---
 
 ## 🚀 Phase 4: Scaling & Cultural Lock-in (6–12 months)
-*Objective: Make CRAFTER the "New Normal".*
+*Objective: Make CRAFTER the "New Normal."*
 
 - [ ] **Cross-Team Standardization:** Apply the same execution language across the entire engineering department.
 - [ ] **Onboarding Integration:** CRAFTER OS becomes the first thing a new hire learns during their first week.

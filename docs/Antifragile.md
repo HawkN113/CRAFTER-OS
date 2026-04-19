@@ -63,7 +63,7 @@ Pressure is a filter that removes non-essential complexity.
 - **Execution under Load:** CRAFTER protocols (like the Stall Protocol) are designed to function best when you are stuck or overwhelmed.
 
 ### 3. Deliberate Variability
-Stability is often a trap that hides hidden risks. CRAFTER encourages:
+Stability is often a trap that hides risks. CRAFTER encourages:
 - **Assumption Testing:** Regularly challenging your own "best practices."
 - **Small-Scale Experimentation:** High-frequency, low-risk iterations to explore system limits before they are reached in production.
 

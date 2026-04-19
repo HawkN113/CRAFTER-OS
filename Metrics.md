@@ -66,7 +66,7 @@
 *Measuring the depth of ownership.*
 
 * **End-to-End Ownership:** % of tasks where the engineer handled everything from design to deployment/monitoring.
-* **Proactivity Score:** Number of "Broken Windows" or technical debt items fixed outside of assigned tasks.
+* **Proactivity Score:** Number of "Broken Windows" or technical debt items fixed outside assigned tasks.
 * **System Stability:** Uptime or performance metrics of the specific components owned by the engineer.
 
 ---
