@@ -20,6 +20,8 @@ Traditional engineering is often a chaotic loop of multitasking, burnout, and un
 ## 🛡️ The Solution: CRAFTER OS
 **CRAFTER OS** is a deterministic engineering operating system. It provides a rigorous framework to eliminate cognitive friction, maximize deep work, and transform raw coding effort into professional mastery.
 
+> ⚠️ **Critical Tactical Warning:** CRAFTER OS is a high-transparency, high-accountability framework. Before deployment, ensure your organizational culture is ready. Read the **[Cultural Compatibility Guide](./docs/Cultural-Compatibility.md)** to avoid friction and systemic conflict.
+
 ---
 
 ## 🚀 System Core: C.R.A.F.T.E.R
@@ -75,6 +77,7 @@ graph TD
 
 ### 🧩 Core System (The Foundation)
 * 📜 **[Philosophy](./docs/Philosophy.md)** — The 3 pillars: Systems Thinking, Execution, and Kaizen.
+* ⚠️ **[Compatibility](./docs/Cultural-Compatibility.md)** — Tactical Warning: Cultural compatibility and friction points.
 * 📖 **[Glossary](./docs/Glossary.md)** — Definition of core CRAFTER terms and concepts.
 * 🛡️ **[Antifragile](./docs/Antifragile.md)** — How to turn stress and chaos into growth.
 * 📂 **[Culture](./Engineering.md)** — The foundational engineering mindset.
@@ -91,7 +94,6 @@ graph TD
 * 📂 **[Team-Roadmap](./Team-Roadmap.md)** — Scaling the system for engineering groups.
 * 📂 **[Enterprise ROI](./docs/Enterprise-ROI.md)** — Business justification and time-recovery metrics.
 * 📂 **[Enterprise](./docs/Enterprise.md)** — Enterprise-grade deployment and organizational scaling.
-
 
 ---
 
@@ -176,6 +178,7 @@ The goal is to develop an engineer who:
 - It is **not** a tech stack or language-specific guide.
 - It is **not** a Jira replacement (it's how you *use* the tools).
 - It is **not** a rigid set of rules (it's a framework to be adapted).
+- It is **not** a "politically safe" system for low-signal environments (see **[Cultural Compatibility](./docs/Cultural-Compatibility.md)**).
 
 ---
 
