@@ -208,6 +208,12 @@ This licensing model allows:
 - protection against unlicensed commercial use.
 - long-term development and evolution of the system.
 
+### 📰 Published Articles
+
+For a full narrative introduction to the framework - why it exists, how it evolved over a decade, and what problems it solves - read the published article series:
+
+- **Part 1**: [CRAFTER: A Cognitive Execution Layer for Sustainable Engineering](https://dev.to/hawkn113/crafter-a-cognitive-execution-layer-for-sustainable-engineering-part-1-idn)
+
 ---
 
 <center>
