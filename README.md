@@ -213,6 +213,7 @@ This licensing model allows:
 For a full narrative introduction to the framework - why it exists, how it evolved over a decade, and what problems it solves - read the published article series:
 
 - **Part 1**: [CRAFTER: A Cognitive Execution Layer for Sustainable Engineering](https://dev.to/hawkn113/crafter-a-cognitive-execution-layer-for-sustainable-engineering-part-1-idn)
+- **Part 2**: [CRAFTER Clarity: Why Real Engineering Starts Before Your IDE](https://dev.to/hawkn113/crafter-clarity-why-real-engineering-starts-before-your-ide-part-2-gg7)
 
 ---
 
