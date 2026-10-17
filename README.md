@@ -214,6 +214,7 @@ For a full narrative introduction to the framework - why it exists, how it evolv
 
 - **Part 1**: [CRAFTER: A Cognitive Execution Layer for Sustainable Engineering](https://dev.to/hawkn113/crafter-a-cognitive-execution-layer-for-sustainable-engineering-part-1-idn)
 - **Part 2**: [CRAFTER Clarity: Why Real Engineering Starts Before Your IDE](https://dev.to/hawkn113/crafter-clarity-why-real-engineering-starts-before-your-ide-part-2-gg7)
+- **Part 3**: [CRAFTER Focus: How to protect your hours of Deep Work every day](https://dev.to/hawkn113/crafter-focus-how-to-protect-your-hours-of-deep-work-every-day-part-3-50nd)
 
 ---
 
