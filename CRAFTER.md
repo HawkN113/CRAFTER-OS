@@ -13,6 +13,7 @@ The quality of your code can never exceed the quality of your mental model. Clar
 * **Action:** If you can't map the logic on paper, don't touch the keyboard.
 * **❌ Anti-pattern:** "Guess-driven development" or starting a task with vague requirements.
 * **Tool**: Use [ADR (Architecture Decision Record)](./templates/ADR-Template.md) to eliminate "Guess-driven Development". If you can't justify a decision in an ADR, you don't have enough clarity to execute it.
+* **Guide:** [Cognitive Clarity](./docs/Cognitive-Clarity.md) expands the three principles.
 
 ---
 
@@ -46,6 +47,7 @@ Software engineering is an exercise in managing deep abstraction. This requires 
 * **Principles:** Single-tasking, deep work blocks, and environmental control.
 * **Action:** Hard-block 2–4 hours for execution. Kill all notifications.
 * **❌ Anti-pattern:** Task-switching, "Just checking Slack," and attending non-essential syncs.
+* **Guide:** [Focus](./docs/Focus.md) expands the three principles.
 
 ---
 
@@ -57,6 +59,7 @@ Mastery is the ability to see the system through the syntax. You must understand
 * **Principles:** Low-level understanding, constant R&D, and architectural reasoning.
 * **Action:** Spend 10% of your week studying the "How" behind the "What."
 * **❌ Anti-pattern:** "Copy-paste" engineering or relying on tools you don't understand.
+* **Guide:** [Technical Mastery](./docs/Technical-Mastery.md) expands the three principles.
 
 ---
 
