@@ -80,6 +80,9 @@ graph TD
 * ⚠️ **[Compatibility](./docs/Cultural-Compatibility.md)** — Tactical Warning: Cultural compatibility and friction points.
 * 📖 **[Glossary](./docs/Glossary.md)** — Definition of core CRAFTER terms and concepts.
 * 🛡️ **[Antifragile](./docs/Antifragile.md)** — How to turn stress and chaos into growth.
+* 🟦 **[Cognitive Clarity](./docs/Cognitive-Clarity.md)** — Engineering starts before the editor.
+* 🟥 **[Focus](./docs/Focus.md)** — Protecting hours of deep work.
+* 🟨 **[Technical Mastery](./docs/Technical-Mastery.md)** — Seeing the system through the syntax.
 * 📂 **[Culture](./Engineering.md)** — The foundational engineering mindset.
 * 📂 **[Roles](./docs/Roles.md)** — Role-specific implementation (Dev, Lead, Manager).
 * 📂 **[ADR Template](./templates/ADR-Template.md)** — Standard for documenting technical choices.
@@ -115,14 +118,15 @@ graph TD
 ## 📈 Value Proposition
 
 ### 🔥 High-Performance Execution
-- **Focus:** Eliminate context switching via 2-4h Deep Work blocks.
+- **Focus:** Eliminate context switching via 2-4h Deep Work blocks. [Detailed Guide →](./docs/Focus.md)
 - **Predictability:** Consistent delivery timelines based on real metrics.
 - **Quality:** Built-in "Definition of Done" for every task.
 
 ### 🧠 Strategic Thinking
-- **Cognitive Clarity:** Decisions driven by logic, not stress.
+- **Cognitive Clarity:** Decisions driven by logic, not stress. [Detailed Guide →](./docs/Cognitive-Clarity.md)
 - **System Reasoning:** Move from "fixing bugs" to "engineering systems".
 - **Anti-Fragility:** Learn and improve from every failure. [Detailed Guide →](./docs/Antifragile.md)
+- **Technical Mastery:** See the system through the syntax. [Detailed Guide →](./docs/Technical-Mastery.md)
 
 ---
 
@@ -215,7 +219,6 @@ For a full narrative introduction to the framework - why it exists, how it evolv
 - **Part 1**: [CRAFTER: A Cognitive Execution Layer for Sustainable Engineering](https://dev.to/hawkn113/crafter-a-cognitive-execution-layer-for-sustainable-engineering-part-1-idn)
 - **Part 2**: [CRAFTER Clarity: Why Real Engineering Starts Before Your IDE](https://dev.to/hawkn113/crafter-clarity-why-real-engineering-starts-before-your-ide-part-2-gg7)
 - **Part 3**: [CRAFTER Focus: How to protect your hours of Deep Work every day](https://dev.to/hawkn113/crafter-focus-how-to-protect-your-hours-of-deep-work-every-day-part-3-50nd)
-- **Part 4**: [CRAFTER Technical Mastery: Seeing the System Through the Syntax](https://dev.to/hawkn113/crafter-technical-mastery-seeing-the-system-through-the-syntax-part-4-3mch)
 
 ---
 
